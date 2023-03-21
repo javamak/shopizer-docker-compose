@@ -1,0 +1,3 @@
+[submodule "shopizer"]
+	path = shopizer
+	url = https://github.com/shopizer-ecommerce/shopizer.git
